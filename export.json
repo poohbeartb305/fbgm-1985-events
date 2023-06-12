@@ -28,6 +28,7 @@
       "abbrev": "BUF",
       "stadiumCapacity": 80290,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117337228574740480/buffalo85.png",
+      "jersey": "football",
       "colors": [
         "#00338D",
         "#C60C30",
@@ -44,6 +45,7 @@
       "abbrev": "CHI",
       "stadiumCapacity": 66946,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117337829152923698/chicago85.png",
+      "jersey": "football",
       "colors": [
         "#0b162a",
         "#c83803",
@@ -77,6 +79,7 @@
       "abbrev": "CLE",
       "stadiumCapacity": 80098,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117340108757151924/cleveland85.png",
+      "jersey": "football",
       "colors": [
         "#311d00",
         "#ff3c00",
@@ -93,6 +96,7 @@
       "abbrev": "DAL",
       "stadiumCapacity": 63855,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117340859562733628/dallas85.png",
+      "jersey": "football",
       "colors": [
         "#002244",
         "#869397",
@@ -109,6 +113,7 @@
       "abbrev": "DEN",
       "stadiumCapacity": 75100,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117341938841038898/denver85.png",
+      "jersey": "football",
       "colors": [
         "#ee5b15",
         "#0e40a1",
@@ -125,6 +130,7 @@
       "abbrev": "DET",
       "stadiumCapacity": 82600,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117342877425614939/detroit85.png",
+      "jersey": "football",
       "colors": [
         "#2F5FA5",
         "#2F5FA5",
@@ -141,6 +147,7 @@
       "abbrev": "GB",
       "stadiumCapacity": 56926,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117343674859266189/greenbay85.png",
+      "jersey": "football2",
       "colors": [
         "#203731",
         "#ffb612",
@@ -157,10 +164,11 @@
       "abbrev": "HOU",
       "stadiumCapacity": 50495,
       "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117553201441407080/nfloilers.png",
+      "jersey": "football",
       "colors": [
         "#5a9ee2",
-        "#5a9ee2",
-        "#C8102E"
+        "#C8102E",
+        "#5a9ee2"
       ]
     },
     {
@@ -190,6 +198,7 @@
       "abbrev": "KC",
       "stadiumCapacity": 78097,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117345960855601222/kansascity85.png",
+      "jersey": "football",
       "colors": [
         "#c10916",
         "#ffb612",
@@ -206,6 +215,7 @@
       "abbrev": "RAI",
       "stadiumCapacity": 92516,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117348432890298479/raiders85.png",
+      "jersey": "football",
       "colors": [
         "#161618",
         "#161618",
@@ -222,6 +232,7 @@
       "abbrev": "LAR",
       "stadiumCapacity": 69008,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117349193720279100/rams85.png",
+      "jersey": "football2",
       "colors": [
         "#030372",
         "#f2c800",
@@ -238,6 +249,7 @@
       "abbrev": "MIA",
       "stadiumCapacity": 75500,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117351332278448139/miami85.png",
+      "jersey": "football",
       "colors": [
         "#008E97",
         "#FC4C02",
@@ -254,6 +266,7 @@
       "abbrev": "MIN",
       "stadiumCapacity": 62345,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117351356928368693/minnesota85.png",
+      "jersey": "football",
       "colors": [
         "#4F2683",
         "#ffc62f",
@@ -287,6 +300,7 @@
       "abbrev": "NO",
       "stadiumCapacity": 71647,
       "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117547340400705546/neworleans67.png",
+      "jersey": "football",
       "colors": [
         "#161618",
         "#d3bc8d",
@@ -303,6 +317,7 @@
       "abbrev": "NYG",
       "stadiumCapacity": 76891,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117353923867586580/nyg85.png",
+      "jersey": "football",
       "colors": [
         "#0B2265",
         "#a71930",
@@ -319,10 +334,11 @@
       "abbrev": "NYJ",
       "stadiumCapacity": 76891,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117355287456776273/nyj85.png",
+      "jersey": "football",
       "colors": [
         "#235039",
         "#FFFFFF",
-        "#235039"
+        "#161618"
       ]
     },
     {
@@ -335,10 +351,11 @@
       "abbrev": "PHI",
       "stadiumCapacity": 71640,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117356444946276412/philadelphia85.png",
+      "jersey": "football",
       "colors": [
         "#05683c",
-        "#05683c",
-        "#E2E4E7"
+        "#E2E4E7",
+        "#05683c"
       ]
     },
     {
@@ -351,6 +368,7 @@
       "abbrev": "PIT",
       "stadiumCapacity": 59000,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117357187946266724/pittsburgh85.png",
+      "jersey": "football",
       "colors": [
         "#161618",
         "#161618",
@@ -371,7 +389,7 @@
       "colors": [
         "#0c2244",
         "#ffb612",
-        "#0c2244"
+        "#FFFFFF"
       ]
     },
     {
@@ -388,7 +406,7 @@
       "colors": [
         "#bc181d",
         "#b3995d",
-        "#bc181d"
+        "#b3995d"
       ]
     },
     {
@@ -401,10 +419,11 @@
       "abbrev": "SEA",
       "stadiumCapacity": 64984,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117360392432263188/seattle85.png",
+      "jersey": "football",
       "colors": [
         "#0f358c",
         "#04863c",
-        "#0f358c"
+        "#04863c"
       ]
     },
     {
@@ -420,7 +439,7 @@
       "jersey": "football2",
       "colors": [
         "#97233F",
-        "#97233F",
+        "#FFFFFF",
         "#FFB612"
       ]
     },
@@ -434,6 +453,7 @@
       "abbrev": "TB",
       "stadiumCapacity": 74315,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117362205365641247/tampabay85.png",
+      "jersey": "football",
       "colors": [
         "#FFFFFF",
         "#ff8f25",
@@ -450,6 +470,7 @@
       "abbrev": "WAS",
       "stadiumCapacity": 55750,
       "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117362589912015018/washington85.png",
+      "jersey": "football",
       "colors": [
         "#FFFFFF",
         "#860610",
@@ -634,10 +655,10 @@
         "cid": 1,
         "did": 3,
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117526344885096538/phoenix88.png",
-        "jersey": "football2",
+        "jersey": "football",
         "colors": [
           "#97233F",
-          "#97233F",
+          "#FFFFFF",
           "#FFB612"
         ]
       }
