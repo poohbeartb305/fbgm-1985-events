@@ -208,7 +208,7 @@
     {
       "tid": 12,
       "cid": 0,
-      "did": 0,
+      "did": 2,
       "region": "Los Angeles",
       "name": "Raiders",
       "pop": 10.1,
@@ -224,8 +224,8 @@
     },
     {
       "tid": 13,
-      "cid": 0,
-      "did": 0,
+      "cid": 1,
+      "did": 5,
       "region": "Los Angeles",
       "name": "Rams",
       "pop": 10.1,
@@ -429,7 +429,7 @@
     {
       "tid": 25,
       "cid": 1,
-      "did": 5,
+      "did": 3,
       "region": "St. Louis",
       "name": "Cardinals",
       "pop": 1.8,
