@@ -536,7 +536,8 @@
     "passYdsFactor": 1.08,
     "scrambleFactor": 1.01,
     "pace": 1.08,
-    "minRetireAge": 28
+    "minRetireAge": 28,
+    "rookiesCanRefuse": false
   },
   "scheduledEvents": [
     {
