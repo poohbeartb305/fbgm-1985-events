@@ -133,7 +133,7 @@
       "jersey": "football",
       "colors": [
         "#2F5FA5",
-        "#2F5FA5",
+        "#FFFFFF",
         "#FFFFFF"
       ]
     },
@@ -168,7 +168,7 @@
       "colors": [
         "#5a9ee2",
         "#C8102E",
-        "#5a9ee2"
+        "#C8102E"
       ]
     },
     {
@@ -218,7 +218,7 @@
       "jersey": "football",
       "colors": [
         "#161618",
-        "#161618",
+        "#a5acaf",
         "#a5acaf"
       ]
     },
@@ -371,7 +371,7 @@
       "jersey": "football",
       "colors": [
         "#161618",
-        "#161618",
+        "#ffb612",
         "#ffb612"
       ]
     },
@@ -529,14 +529,14 @@
     ],
     "aiTradesFactor": 0.65,
     "numGames": 16,
-    "completionFactor": 0.89,
+    "completionFactor": 0.90,
     "passFactor": 0.9,
     "sackFactor": 0.94,
-    "intFactor": 1.14,
+    "intFactor": 1.05,
     "passYdsFactor": 1.08,
-    "scrambleFactor": 1.01,
+    "scrambleFactor": 1.017,
     "pace": 1.08,
-    "minRetireAge": 28,
+    "minRetireAge": 27,
     "rookiesCanRefuse": false
   },
   "scheduledEvents": [
@@ -931,10 +931,10 @@
         "did": 1,
         "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117553201441407080/nfloilers.png",
         "jersey": "football",
-        "New item": [
+        "colors": [
           "#5A9EE2",
           "#C8102E",
-          "#5A9EE2"
+          "#C8102E"
         ]
       }
     },
@@ -954,7 +954,7 @@
         "did": 1,
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117553947226407103/tennessee99.png",
         "jersey": "football5",
-        "New item": [
+        "colors": [
           "#5A9EE2",
           "#0C2340",
           "#5A9EE2"
@@ -996,7 +996,7 @@
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117537862188019802/oakland95.png",
         "colors": [
           "#161618",
-          "#161618",
+          "#a5acaf",
           "#a5acaf"
         ]
       }
@@ -1016,7 +1016,7 @@
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117538056724021379/lasvegas20.png",
         "colors": [
           "#161618",
-          "#161618",
+          "#a5acaf",
           "#a5acaf"
         ]
       }
@@ -1124,7 +1124,7 @@
         "tid": 13,
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543433192624198/stlouis00.png",
         "jersey": "football",
-        "New item": [
+        "colors": [
           "#002244",
           "#c9af74",
           "#c9af74"
@@ -1145,7 +1145,7 @@
         "tid": 13,
         "jersey": "football",
         "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543433192624198/stlouis00.png",
-        "New item": [
+        "colors": [
           "#002244",
           "#c9af74",
           "#c9af74"
