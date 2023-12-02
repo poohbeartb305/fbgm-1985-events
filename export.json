@@ -10,7 +10,7 @@
       "pop": 1.8,
       "abbrev": "ATL",
       "stadiumCapacity": 59709,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117337209620672523/atlanta85.png",
+      "imgURL": "https://i.imgur.com/qsoSsd6.png",
       "jersey": "football",
       "colors": [
         "#C0001D",
@@ -27,7 +27,7 @@
       "pop": 0.97,
       "abbrev": "BUF",
       "stadiumCapacity": 80290,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117337228574740480/buffalo85.png",
+      "imgURL": "https://i.imgur.com/67O2Js7.png",
       "jersey": "football",
       "colors": [
         "#00338D",
@@ -44,7 +44,7 @@
       "pop": 7.2,
       "abbrev": "CHI",
       "stadiumCapacity": 66946,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117337829152923698/chicago85.png",
+      "imgURL": "https://i.imgur.com/qryN6Kn.png",
       "jersey": "football",
       "colors": [
         "#0b162a",
@@ -61,7 +61,7 @@
       "pop": 1.2,
       "abbrev": "CIN",
       "stadiumCapacity": 59754,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117339386665779230/cincinnati85.png",
+      "imgURL": "https://i.imgur.com/YLyq92Q.png",
       "jersey": "football2",
       "colors": [
         "#161618",
@@ -78,7 +78,7 @@
       "pop": 1.7,
       "abbrev": "CLE",
       "stadiumCapacity": 80098,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117340108757151924/cleveland85.png",
+      "imgURL": "https://i.imgur.com/Vh9up8Q.png",
       "jersey": "football",
       "colors": [
         "#311d00",
@@ -95,7 +95,7 @@
       "pop": 2.8,
       "abbrev": "DAL",
       "stadiumCapacity": 63855,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117340859562733628/dallas85.png",
+      "imgURL": "https://i.imgur.com/XgAh7GY.png",
       "jersey": "football",
       "colors": [
         "#002244",
@@ -112,7 +112,7 @@
       "pop": 1.4,
       "abbrev": "DEN",
       "stadiumCapacity": 75100,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117341938841038898/denver85.png",
+      "imgURL": "https://i.imgur.com/DTpZo0z.png",
       "jersey": "football",
       "colors": [
         "#ee5b15",
@@ -129,7 +129,7 @@
       "pop": 3.7,
       "abbrev": "DET",
       "stadiumCapacity": 82600,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117342877425614939/detroit85.png",
+      "imgURL": "https://i.imgur.com/fsO9fiP.png",
       "jersey": "football",
       "colors": [
         "#2F5FA5",
@@ -146,7 +146,7 @@
       "pop": 0.2,
       "abbrev": "GB",
       "stadiumCapacity": 56926,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117343674859266189/greenbay85.png",
+      "imgURL": "https://i.imgur.com/a0FqT7H.png",
       "jersey": "football2",
       "colors": [
         "#203731",
@@ -163,7 +163,7 @@
       "pop": 2.6,
       "abbrev": "HOU",
       "stadiumCapacity": 50495,
-      "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117553201441407080/nfloilers.png",
+      "imgURL": "https://i.imgur.com/HHjYE3x.png",
       "jersey": "football",
       "colors": [
         "#5a9ee2",
@@ -180,7 +180,7 @@
       "pop": 0.8,
       "abbrev": "IND",
       "stadiumCapacity": 60127,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117345464963047474/indianapolis85.png",
+      "imgURL": "https://i.imgur.com/uVrhKnO.png",
       "jersey": "football3",
       "colors": [
         "#00338D",
@@ -197,7 +197,7 @@
       "pop": 1.1,
       "abbrev": "KC",
       "stadiumCapacity": 78097,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117345960855601222/kansascity85.png",
+      "imgURL": "https://i.imgur.com/7UW6AN6.png",
       "jersey": "football",
       "colors": [
         "#c10916",
@@ -214,7 +214,7 @@
       "pop": 10.1,
       "abbrev": "RAI",
       "stadiumCapacity": 92516,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117348432890298479/raiders85.png",
+      "imgURL": "https://i.imgur.com/sRkCLtx.png",
       "jersey": "football",
       "colors": [
         "#161618",
@@ -231,7 +231,7 @@
       "pop": 10.1,
       "abbrev": "LAR",
       "stadiumCapacity": 69008,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117349193720279100/rams85.png",
+      "imgURL": "https://i.imgur.com/2NIHXcJ.png",
       "jersey": "football2",
       "colors": [
         "#030372",
@@ -248,7 +248,7 @@
       "pop": 3.5,
       "abbrev": "MIA",
       "stadiumCapacity": 75500,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117351332278448139/miami85.png",
+      "imgURL": "https://i.imgur.com/rzOAB34.png",
       "jersey": "football",
       "colors": [
         "#008E97",
@@ -265,7 +265,7 @@
       "pop": 1.9,
       "abbrev": "MIN",
       "stadiumCapacity": 62345,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117351356928368693/minnesota85.png",
+      "imgURL": "https://i.imgur.com/v7NstZo.png",
       "jersey": "football",
       "colors": [
         "#4F2683",
@@ -282,7 +282,7 @@
       "pop": 3.3,
       "abbrev": "NE",
       "stadiumCapacity": 60890,
-      "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117545554256339035/newengland72.png",
+      "imgURL": "https://i.imgur.com/Gh6cBfq.png",
       "jersey": "football3",
       "colors": [
         "#C0001D",
@@ -299,7 +299,7 @@
       "pop": 1,
       "abbrev": "NO",
       "stadiumCapacity": 71647,
-      "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117547340400705546/neworleans67.png",
+      "imgURL": "https://i.imgur.com/YUq2r9S.png",
       "jersey": "football",
       "colors": [
         "#161618",
@@ -316,7 +316,7 @@
       "pop": 15.8,
       "abbrev": "NYG",
       "stadiumCapacity": 76891,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117353923867586580/nyg85.png",
+      "imgURL": "https://i.imgur.com/wX6eeYF.png",
       "jersey": "football",
       "colors": [
         "#0B2265",
@@ -333,7 +333,7 @@
       "pop": 15.8,
       "abbrev": "NYJ",
       "stadiumCapacity": 76891,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117355287456776273/nyj85.png",
+      "imgURL": "https://i.imgur.com/lVUdA9i.png",
       "jersey": "football",
       "colors": [
         "#235039",
@@ -350,7 +350,7 @@
       "pop": 4.6,
       "abbrev": "PHI",
       "stadiumCapacity": 71640,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117356444946276412/philadelphia85.png",
+      "imgURL": "https://i.imgur.com/xqGqKlA.png",
       "jersey": "football",
       "colors": [
         "#05683c",
@@ -367,7 +367,7 @@
       "pop": 1.7,
       "abbrev": "PIT",
       "stadiumCapacity": 59000,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117357187946266724/pittsburgh85.png",
+      "imgURL": "https://i.imgur.com/wuntOUc.png",
       "jersey": "football",
       "colors": [
         "#161618",
@@ -384,7 +384,7 @@
       "pop": 2.0,
       "abbrev": "SD",
       "stadiumCapacity": 60750,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117357975980486736/sandiego85.png",
+      "imgURL": "https://i.imgur.com/hEKPc3W.png",
       "jersey": "football3",
       "colors": [
         "#0c2244",
@@ -401,7 +401,7 @@
       "pop": 2.8,
       "abbrev": "SF",
       "stadiumCapacity": 61413,
-      "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117550983459905688/sanfrancisco68.png",
+      "imgURL": "https://i.imgur.com/mHXiCpz.png",
       "jersey": "football",
       "colors": [
         "#bc181d",
@@ -418,7 +418,7 @@
       "pop": 1.9,
       "abbrev": "SEA",
       "stadiumCapacity": 64984,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117360392432263188/seattle85.png",
+      "imgURL": "https://i.imgur.com/rvQewRO.png",
       "jersey": "football",
       "colors": [
         "#0f358c",
@@ -435,7 +435,7 @@
       "pop": 1.8,
       "abbrev": "STL",
       "stadiumCapacity": 51392,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117361044759789589/stlouiscardinals85.png",
+      "imgURL": "https://i.imgur.com/8qFcfXU.png",
       "jersey": "football2",
       "colors": [
         "#97233F",
@@ -452,7 +452,7 @@
       "pop": 1.5,
       "abbrev": "TB",
       "stadiumCapacity": 74315,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117362205365641247/tampabay85.png",
+      "imgURL": "https://i.imgur.com/ofECr8O.png",
       "jersey": "football",
       "colors": [
         "#FFFFFF",
@@ -469,7 +469,7 @@
       "pop": 3.0,
       "abbrev": "WAS",
       "stadiumCapacity": 55750,
-      "imgURL": "https://cdn.discordapp.com/attachments/1117203641510658099/1117362589912015018/washington85.png",
+      "imgURL": "https://i.imgur.com/XSqkBd0.png",
       "jersey": "football",
       "colors": [
         "#FFFFFF",
@@ -485,6 +485,7 @@
     "salaryCap": 37000,
     "injuryRate": 0.0017272727272727277,
     "minPayroll": 27000,
+    "fantasyPoints": "ppr",
     "confs": [
       {
         "cid": 0,
@@ -527,24 +528,31 @@
         "name": "NFC West"
       }
     ],
-    "aiTradesFactor": 0.65,
+    "hofFactor": 1.2,
+    "aiTradesFactor": 0.58,
     "numGames": 16,
-    "completionFactor": 0.90,
-    "passFactor": 0.9,
-    "sackFactor": 0.94,
-    "intFactor": 1.05,
+    "numGamesDiv": 8,
+    "numGamesConf": 4,
+    "completionFactor": 0.904,
+    "fourthDownFactor": 1.001,
+    "passFactor": 0.905,
+    "sackFactor": 0.92,
+    "intFactor": 1.028,
     "passYdsFactor": 1.08,
     "scrambleFactor": 1.017,
-    "pace": 1.08,
+    "pace": 1.024,
     "minRetireAge": 27,
-    "rookiesCanRefuse": false
+    "rookiesCanRefuse": false,
+    "rookieContractLengths": [
+      4,
+      3
+    ]
   },
   "scheduledEvents": [
     {
       "type": "expansionDraft",
       "season": 1994,
       "phase": 4,
-      "id": 0,
       "info": {
         "numProtectedPlayers": 12,
         "teams": [
@@ -558,7 +566,7 @@
             "cid": 1,
             "did": 5,
             "jersey": "football3",
-            "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534352977449100/carolina95.png",
+            "imgURL": "https://i.imgur.com/ch4GvWQ.png",
             "colors": [
               "#FFFFFF",
               "#161618",
@@ -575,7 +583,7 @@
             "cid": 0,
             "did": 1,
             "jersey": "football",
-            "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117536794322407434/jacksonville95.png",
+            "imgURL": "https://i.imgur.com/G0fDloV.png",
             "colors": [
               "#007198",
               "#161618",
@@ -589,7 +597,6 @@
       "type": "expansionDraft",
       "season": 1998,
       "phase": 4,
-      "id": 1,
       "info": {
         "numProtectedPlayers": 12,
         "teams": [
@@ -603,7 +610,7 @@
             "cid": 0,
             "did": 1,
             "jersey": "football",
-            "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117532625456873562/cleveland92.png",
+            "imgURL": "https://i.imgur.com/r3656Kl.png",
             "colors": [
               "#311D00",
               "#FF3C00",
@@ -617,7 +624,6 @@
       "type": "expansionDraft",
       "season": 2001,
       "phase": 4,
-      "id": 2,
       "info": {
         "numProtectedPlayers": 12,
         "teams": [
@@ -631,7 +637,7 @@
             "cid": 0,
             "did": 1,
             "jersey": "football",
-            "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117535753501683803/houston02.png",
+            "imgURL": "https://i.imgur.com/4kr0a2X.png",
             "colors": [
               "#03202F",
               "#A71930",
@@ -645,7 +651,6 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 3,
       "info": {
         "region": "Phoenix",
         "name": "Cardinals",
@@ -655,7 +660,7 @@
         "tid": 25,
         "cid": 1,
         "did": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117526344885096538/phoenix88.png",
+        "imgURL": "https://i.imgur.com/sUM4JE3.png",
         "jersey": "football",
         "colors": [
           "#97233F",
@@ -668,7 +673,6 @@
       "type": "teamInfo",
       "season": 1994,
       "phase": 0,
-      "id": 4,
       "info": {
         "region": "Arizona",
         "name": "Cardinals",
@@ -680,20 +684,18 @@
       "type": "teamInfo",
       "season": 2005,
       "phase": 0,
-      "id": 5,
       "info": {
         "tid": 25,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117526383023886336/arizona05.png"
+        "imgURL": "https://i.imgur.com/xAbcbkD.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1990,
       "phase": 0,
-      "id": 6,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117581377135718501/atlanta90.png",
+        "imgURL": "https://i.imgur.com/VDm1ok3.png",
         "jersey": "football",
         "colors": [
           "#161618",
@@ -706,10 +708,9 @@
       "type": "teamInfo",
       "season": 2003,
       "phase": 0,
-      "id": 6,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117524691511431178/atlanta03.png",
+        "imgURL": "https://i.imgur.com/QBWwGsZ.png",
         "jersey": "football",
         "colors": [
           "#C60C30",
@@ -722,7 +723,6 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 8,
       "info": {
         "region": "Baltimore",
         "name": "Ravens",
@@ -732,7 +732,7 @@
         "tid": 4,
         "cid": 0,
         "did": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117536019852562482/1117536154850439199/baltimore96.png",
+        "imgURL": "https://i.imgur.com/VrW0pV6.png",
         "jersey": "football",
         "colors": [
           "#241773",
@@ -745,110 +745,99 @@
       "type": "teamInfo",
       "season": 1999,
       "phase": 0,
-      "id": 9,
       "info": {
         "tid": 4,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117536019852562482/1117536259607380028/baltimore99.png"
+        "imgURL": "https://i.imgur.com/kGSRSwB.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2012,
       "phase": 0,
-      "id": 10,
       "info": {
         "tid": 28,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534489783062618/carolina12.png"
+        "imgURL": "https://i.imgur.com/sbRf7ro.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1987,
       "phase": 0,
-      "id": 11,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117530126482165810/cincinnati87.png"
+        "imgURL": "https://i.imgur.com/4b4aDdv.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 12,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117530169108869120/cincinnati97.png"
+        "imgURL": "https://i.imgur.com/OXyyyy1.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2004,
       "phase": 0,
-      "id": 13,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117530203728642068/cincinnati04.png"
+        "imgURL": "https://i.imgur.com/MIzOo6L.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1986,
       "phase": 0,
-      "id": 14,
       "info": {
         "tid": 4,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117532596784603246/cleveland86.png"
+        "imgURL": "https://i.imgur.com/OV7zW7c.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 15,
       "info": {
         "tid": 4,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117532625456873562/cleveland92.png"
+        "imgURL": "https://i.imgur.com/r3656Kl.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2006,
       "phase": 0,
-      "id": 16,
       "info": {
         "tid": 30,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117532663134306344/cleveland06.png"
+        "imgURL": "https://i.imgur.com/RlS9TUq.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2015,
       "phase": 0,
-      "id": 17,
       "info": {
         "tid": 30,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117532699868016680/cleveland15.png"
+        "imgURL": "https://i.imgur.com/zmn9eeA.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 18,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534674932207807/denver93.png"
+        "imgURL": "https://i.imgur.com/TQD1XZA.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 19,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534711162613820/denver97.png",
+        "imgURL": "https://i.imgur.com/kjwDsup.png",
         "colors": [
           "#0C2244",
           "#FC4E04",
@@ -860,7 +849,6 @@
       "type": "teamInfo",
       "season": 2008,
       "phase": 0,
-      "id": 20,
       "info": {
         "tid": 6,
         "colors": [
@@ -874,7 +862,6 @@
       "type": "teamInfo",
       "season": 1991,
       "phase": 0,
-      "id": 21,
       "info": {
         "tid": 7,
         "jersey": "football",
@@ -889,37 +876,33 @@
       "type": "teamInfo",
       "season": 2003,
       "phase": 0,
-      "id": 22,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534744486350879/detroit03.png"
+        "imgURL": "https://i.imgur.com/h71caYc.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 23,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534781618536458/detroit09.png"
+        "imgURL": "https://i.imgur.com/F8EJ3rh.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 24,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117534811918192830/detroit17.png"
+        "imgURL": "https://i.imgur.com/U6SPgNc.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 25,
       "info": {
         "region": "Tennessee",
         "name": "Oilers",
@@ -929,7 +912,7 @@
         "tid": 9,
         "cid": 0,
         "did": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1034629716554031104/1117553201441407080/nfloilers.png",
+        "imgURL": "https://i.imgur.com/HHjYE3x.png",
         "jersey": "football",
         "colors": [
           "#5A9EE2",
@@ -942,7 +925,6 @@
       "type": "teamInfo",
       "season": 1999,
       "phase": 0,
-      "id": 26,
       "info": {
         "region": "Tennessee",
         "name": "Titans",
@@ -952,7 +934,7 @@
         "tid": 9,
         "cid": 0,
         "did": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117553947226407103/tennessee99.png",
+        "imgURL": "https://i.imgur.com/HUqey5b.png",
         "jersey": "football5",
         "colors": [
           "#5A9EE2",
@@ -965,27 +947,24 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 27,
       "info": {
         "tid": 10,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117536609231982763/indianapolis02.png"
+        "imgURL": "https://i.imgur.com/Qj7xFtU.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 28,
       "info": {
         "tid": 29,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117536825926504569/jacksonville13.png"
+        "imgURL": "https://i.imgur.com/jJRiJQ4.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 29,
       "info": {
         "region": "Oakland",
         "name": "Raiders",
@@ -993,7 +972,7 @@
         "pop": 3.0,
         "stadiumCapacity": 54444,
         "tid": 12,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117537862188019802/oakland95.png",
+        "imgURL": "https://i.imgur.com/OdSz0Fu.png",
         "colors": [
           "#161618",
           "#a5acaf",
@@ -1005,7 +984,6 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 30,
       "info": {
         "region": "Las Vegas",
         "name": "Raiders",
@@ -1013,7 +991,7 @@
         "pop": 2.6,
         "stadiumCapacity": 65000,
         "tid": 12,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117538056724021379/lasvegas20.png",
+        "imgURL": "https://i.imgur.com/OxFI9Sj.png",
         "colors": [
           "#161618",
           "#a5acaf",
@@ -1025,17 +1003,15 @@
       "type": "teamInfo",
       "season": 1988,
       "phase": 0,
-      "id": 31,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117539571538858074/sandiego88.png"
+        "imgURL": "https://i.imgur.com/20kpqau.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 32,
       "info": {
         "tid": 22,
         "jersey": "football3",
@@ -1050,27 +1026,24 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 33,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117539632112996363/sandiego02.png"
+        "imgURL": "https://i.imgur.com/RWRMiDr.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2007,
       "phase": 0,
-      "id": 34,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117539658621014147/sandiego07.png"
+        "imgURL": "https://i.imgur.com/CoAaLHC.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 35,
       "info": {
         "region": "Los Angeles",
         "name": "Chargers",
@@ -1084,34 +1057,31 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 36,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117539681719029831/lac20.png"
+        "imgURL": "https://i.imgur.com/iKQMEoF.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 37,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543313222926466/losangeles89.png"
+        "imgURL": "https://i.imgur.com/95ykdnO.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1995,
       "phase": 0,
-      "id": 38,
       "info": {
         "region": "St. Louis",
         "name": "Rams",
         "abbrev": "STL",
         "pop": 2.0,
         "stadiumCapacity": 67227,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543397465526354/stlouis95.png",
+        "imgURL": "https://i.imgur.com/jqLuo7L.png",
         "tid": 13
       }
     },
@@ -1119,10 +1089,9 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 39,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543433192624198/stlouis00.png",
+        "imgURL": "https://i.imgur.com/H8YoT5Y.png",
         "jersey": "football",
         "colors": [
           "#002244",
@@ -1135,7 +1104,6 @@
       "type": "teamInfo",
       "season": 2016,
       "phase": 0,
-      "id": 40,
       "info": {
         "region": "Los Angeles",
         "name": "Rams",
@@ -1144,7 +1112,7 @@
         "stadiumCapacity": 93607,
         "tid": 13,
         "jersey": "football",
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543433192624198/stlouis00.png",
+        "imgURL": "https://i.imgur.com/H8YoT5Y.png",
         "colors": [
           "#002244",
           "#c9af74",
@@ -1156,20 +1124,18 @@
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 41,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543474837852200/lar17.png"
+        "imgURL": "https://i.imgur.com/9IUicC4.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 42,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117543534904496279/lar20.png",
+        "imgURL": "https://i.imgur.com/MpCs0U2.png",
         "jersey": "football5",
         "colors": [
           "#003594",
@@ -1182,50 +1148,45 @@
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 43,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117544579776913540/miami97.png"
+        "imgURL": "https://i.imgur.com/5mEpdU2.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 44,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117544603323732018/miami13.png"
+        "imgURL": "https://i.imgur.com/Mdm0dEJ.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 45,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117544629869478018/miami17.png"
+        "imgURL": "https://i.imgur.com/pUOIOG1.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2013,
       "phase": 0,
-      "id": 46,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117545008808071188/minnesota13.png"
+        "imgURL": "https://i.imgur.com/GOJHwde.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1993,
       "phase": 0,
-      "id": 47,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117546850145288202/newengland93.png",
+        "imgURL": "https://i.imgur.com/tHIYJUQ.png",
         "jersey": "football",
         "colors": [
           "#FFFFFF",
@@ -1238,10 +1199,9 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 48,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117546884077199360/newengland00.png",
+        "imgURL": "https://i.imgur.com/rcXlORr.png",
         "jersey": "football5",
         "colors": [
           "#FFFFFF",
@@ -1254,7 +1214,6 @@
       "type": "teamInfo",
       "season": 2020,
       "phase": 0,
-      "id": 49,
       "info": {
         "tid": 16,
         "jersey": "football3",
@@ -1269,90 +1228,81 @@
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 50,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548074068348999/neworleans00.png"
+        "imgURL": "https://i.imgur.com/gBH2vJ3.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 51,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548102249881700/neworleans02.png"
+        "imgURL": "https://i.imgur.com/zLlgSTn.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2012,
       "phase": 0,
-      "id": 52,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548132071391252/neworleans12.png"
+        "imgURL": "https://i.imgur.com/BSPe8Yb.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2017,
       "phase": 0,
-      "id": 53,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548166087188690/neworleans17.png"
+        "imgURL": "https://i.imgur.com/3VgvPzm.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2000,
       "phase": 0,
-      "id": 54,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548923402326167/nyg2000.png"
+        "imgURL": "https://i.imgur.com/iVZZXoT.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1998,
       "phase": 0,
-      "id": 55,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117548975633997906/nyj98.png"
+        "imgURL": "https://i.imgur.com/66YsIMV.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2019,
       "phase": 0,
-      "id": 56,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117549064511303750/nyj19.png"
+        "imgURL": "https://i.imgur.com/n8VmEQv.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1987,
       "phase": 0,
-      "id": 57,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117549624744480888/philadelphia87.png"
+        "imgURL": "https://i.imgur.com/rPxSBcr.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 58,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117549663323697245/philadelphia96.png",
+        "imgURL": "https://i.imgur.com/q2PY7zz.png",
         "jersey": "football",
         "colors": [
           "#004d4d",
@@ -1365,20 +1315,18 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 59,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117550300002259064/pittsburgh02.png"
+        "imgURL": "https://i.imgur.com/zjhwSQ0.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 60,
       "info": {
         "tid": 24,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117550603443388576/seattle02.png",
+        "imgURL": "https://i.imgur.com/SN9Fpxs.png",
         "jersey": "football",
         "colors": [
           "#3c5376",
@@ -1391,10 +1339,9 @@
       "type": "teamInfo",
       "season": 2012,
       "phase": 0,
-      "id": 61,
       "info": {
         "tid": 24,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117550631272595456/seattle12.png",
+        "imgURL": "https://i.imgur.com/AhBMCT6.png",
         "jersey": "football",
         "colors": [
           "#002244",
@@ -1407,30 +1354,27 @@
       "type": "teamInfo",
       "season": 1996,
       "phase": 0,
-      "id": 62,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117551640275325130/sanfrancisco96.png"
+        "imgURL": "https://i.imgur.com/wM3Rqeq.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 2009,
       "phase": 0,
-      "id": 63,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117551676996456588/sanfrancisco09.png"
+        "imgURL": "https://i.imgur.com/xFNlMEi.png"
       }
     },
     {
       "type": "teamInfo",
       "season": 1997,
       "phase": 0,
-      "id": 64,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117552413172314252/tampabay97.png",
+        "imgURL": "https://i.imgur.com/77kM9WY.png",
         "jersey": "football",
         "colors": [
           "#b00000",
@@ -1443,10 +1387,9 @@
       "type": "teamInfo",
       "season": 2014,
       "phase": 0,
-      "id": 65,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117552439491575889/tampabay14.png",
+        "imgURL": "https://i.imgur.com/APbF3Tq.png",
         "jersey": "football",
         "colors": [
           "#b00000",
@@ -1459,10 +1402,9 @@
       "type": "teamInfo",
       "season": 2014,
       "phase": 0,
-      "id": 66,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1117520127538233385/1117552482495774913/tampabay20.png",
+        "imgURL": "https://i.imgur.com/fjfFvrb.png",
         "jersey": "football",
         "colors": [
           "#b00000",
@@ -1475,7 +1417,6 @@
       "type": "teamInfo",
       "season": 1986,
       "phase": 0,
-      "id": 67,
       "info": {
         "tid": 25,
         "stadiumCapacity": 54692
@@ -1485,7 +1426,6 @@
       "type": "teamInfo",
       "season": 1989,
       "phase": 0,
-      "id": 68,
       "info": {
         "tid": 25,
         "stadiumCapacity": 74865
@@ -1495,7 +1435,6 @@
       "type": "teamInfo",
       "season": 1992,
       "phase": 0,
-      "id": 69,
       "info": {
         "tid": 25,
         "stadiumCapacity": 74865
@@ -3377,7 +3316,6 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 250,
       "info": {
         "tid": 26,
         "cid": 1,
@@ -3388,12 +3326,42 @@
       "type": "teamInfo",
       "season": 2002,
       "phase": 0,
-      "id": 251,
       "info": {
         "tid": 27,
         "cid": 1,
         "did": 4
       }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1987,
+      "phase": 0,
+      "info": {
+        "numGames": 15,
+        "numGamesDiv": 8,
+        "numGamesConf": 6
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1988,
+      "phase": 0,
+      "info": {
+        "numGames": 16,
+        "numGamesDiv": 8,
+        "numGamesConf": 4
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2002,
+      "phase": 0,
+      "info": {
+        "numGames": 16,
+        "numGamesDiv": 6,
+        "numGamesConf": 6
+      }
     }
-  ]
+  ],
+  "version": 58
 }
