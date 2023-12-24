@@ -546,7 +546,26 @@
     "rookieContractLengths": [
       4,
       3
-    ]
+    ],
+    "playerBioInfo": {
+      "frequencies": {
+        "American Samoa": 70,
+        "Australia": 108,
+        "Bahamas": 6,
+        "Brazil": 2,
+        "Canada": 219,
+        "Denmark": 7,
+        "Germany": 31,
+        "Japan": 9,
+        "Mexico": 10,
+        "New Zealand": 4,
+        "Nigeria": 14,
+        "Samoa": 1,
+        "South Africa": 4,
+        "USA": 73489,
+        "Virgin Islands": 1
+      }
+    }
   },
   "scheduledEvents": [
     {
