@@ -479,12 +479,11 @@
     }
   ],
   "gameAttributes": {
-    "luxuryPayroll": 44000,
-    "maxContract": 3500,
+    "maxContract": 4000,
     "minContract": 350,
     "salaryCap": 37000,
     "injuryRate": 0.0017272727272727277,
-    "minPayroll": 27000,
+    "minPayroll": 28000,
     "fantasyPoints": "ppr",
     "confs": [
       {
