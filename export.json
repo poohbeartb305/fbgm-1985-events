@@ -1391,7 +1391,7 @@
       "season": 1997,
       "phase": 0,
       "info": {
-        "tid": 23,
+        "tid": 26,
         "imgURL": "https://i.imgur.com/77kM9WY.png",
         "jersey": "football",
         "colors": [
@@ -1406,7 +1406,7 @@
       "season": 2014,
       "phase": 0,
       "info": {
-        "tid": 23,
+        "tid": 26,
         "imgURL": "https://i.imgur.com/APbF3Tq.png",
         "jersey": "football",
         "colors": [
@@ -1418,10 +1418,10 @@
     },
     {
       "type": "teamInfo",
-      "season": 2014,
+      "season": 2020,
       "phase": 0,
       "info": {
-        "tid": 23,
+        "tid": 26,
         "imgURL": "https://i.imgur.com/fjfFvrb.png",
         "jersey": "football",
         "colors": [
@@ -3381,5 +3381,5 @@
       }
     }
   ],
-  "version": 58
+  "version": 59
 }
