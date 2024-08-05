@@ -418,7 +418,7 @@
       "pop": 1.9,
       "abbrev": "SEA",
       "stadiumCapacity": 64984,
-      "imgURL": "https://i.imgur.com/rvQewRO.png",
+      "imgURL": "https://i.imgur.com/6NccdWk.png",
       "jersey": "football",
       "colors": [
         "#0f358c",
@@ -480,7 +480,7 @@
   ],
   "gameAttributes": {
     "maxContract": 4000,
-    "minContract": 350,
+    "minContract": 300,
     "salaryCap": 37000,
     "injuryRate": 0.0017272727272727277,
     "minPayroll": 28000,
@@ -539,7 +539,7 @@
     "intFactor": 1.028,
     "passYdsFactor": 1.08,
     "scrambleFactor": 1.017,
-    "pace": 1.024,
+    "pace": 1.028,
     "minRetireAge": 27,
     "rookiesCanRefuse": false,
     "rookieContractLengths": [
@@ -3381,5 +3381,5 @@
       }
     }
   ],
-  "version": 59
+  "version": 62
 }
