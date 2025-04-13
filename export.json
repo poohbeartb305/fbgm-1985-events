@@ -482,6 +482,7 @@
     "maxContract": 4000,
     "minContract": 300,
     "salaryCap": 37000,
+    "difficulty": 0.50,
     "injuryRate": 0.0017272727272727277,
     "minPayroll": 28000,
     "fantasyPoints": "ppr",
