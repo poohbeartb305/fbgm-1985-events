@@ -3381,7 +3381,16 @@
         "numGamesDiv": 6,
         "numGamesConf": 6
       }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2024,
+      "phase": 0,
+      "info": {
+        "tid": 19,
+        "imgURL": "https://i.imgur.com/QjPhTig.png"
+      }
     }
   ],
-  "version": 64
+  "version": 67
 }

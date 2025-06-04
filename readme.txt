@@ -60,6 +60,7 @@ F53 - New Orleans Saints rebrand (logo update) 2017
 F54 - New York Giants rebrand (new logo) 2000
 F55 - New York Jets rebrand (new logo) 1998
 F56 - New York Jets rebrand (logo update) 2019
+F255 - New York Jets rebrand (logo update) 2024
 F57 - Philadelphia Eagles rebrand (new logo) 1987
 F58 - Philadelphia Eagles rebrand (new logo and uniform) 1996
 F59 - Pittsburgh Steelers rebrand (logo update) 2002
