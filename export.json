@@ -529,10 +529,11 @@
       }
     ],
     "hofFactor": 1.35,
-    "aiTradesFactor": 0.75,
+    "aiTradesFactor": 0.85,
     "numGames": 16,
     "numGamesDiv": 8,
     "numGamesConf": 4,
+    "numSeasonsFutureDraftPicks": 2,
     "completionFactor": 0.8825,
     "fourthDownFactor": 1.001,
     "passFactor": 0.935,
@@ -543,6 +544,7 @@
     "scrambleFactor": 1.017,
     "pace": 1.028,
     "minRetireAge": 27,
+    "scrimmageTouchbackKickoff": 25,
     "rookiesCanRefuse": false,
     "rookieContractLengths": [
       4,
